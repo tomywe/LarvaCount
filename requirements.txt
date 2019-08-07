@@ -1,0 +1,5 @@
+torch
+torchvision
+wget
+cv2
+numpy
